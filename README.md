@@ -25,6 +25,7 @@ data512_project
 ├── source
 │   └── Common Analysis.ipynb
 ├── LICENSE
+├── Collective Analysis.pdf
 └── README.md
  ```
 
@@ -41,3 +42,4 @@ data512_project
 **source**:
 - *Common Analysis.ipynb* - Code for exploring, analysis and visulaization of datasets.
  
+*Collective Analysis.pdf* - Writeup on visualization and reflection statement.
