@@ -8,10 +8,10 @@ Research Question to answer : *How did masking policies change the progression o
 ## Source Data
 
 Three main sources of the datasets:
-1. The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data.
-2. The CDC dataset of masking mandates by county.
+1. The *RAW_us_confirmed_cases.csv* file from the Kaggle repository of John Hopkins University COVID-19 data.
+2. The *CDC dataset* of masking mandates by county.
     - Limitations in CDC dataset: The CDC stopped collecting the policy information in September 2021.
-3. The New York Times mask compliance survey data.
+3. The *New York Times mask compliance survey data*.
 
 ## Project Structure
 ```bash
